@@ -15,7 +15,7 @@ This is the repository for the Tadesse Lab profile bio, as well as to become fam
 - Check changes: `git status` shows which files you changed
 - Add changes: `git add [filename]` for a specific file or `git add .` to add all updated file
 - Commit changes: `git commit -m "[commit details]"`
-- Push changes: `git push origin [your branch]` (ensure you are in the correct branch before pushing)
+- Push changes: `git push origin [current branch]` (ensure you are in the correct branch before pushing)
 
 ## Task
 To become familiar with Github, you will make a commit to add your name into a members list
