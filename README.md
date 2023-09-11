@@ -4,7 +4,7 @@ This is the repository for the Tadesse Lab profile bio, as well as to become fam
 ## Setup
 1. First [install Git](https://github.com/git-guides/install-git) to your local machine
 2. Clone the repository to your local machine using your desired terminal location: `git clone https://github.com/Tadesse-Lab/.github.git`
-3. Branches are used to develop work in a contained area with the repository. Experiment with branches:
+3. Branches are used to develop work in a contained area with the repository. To experiment with branches:
     - Ensure your terminal is currently within the repository before using terminal commands
     - Check current branch: `git branch`
     - Switch branch: `git checkout [branch name]`
