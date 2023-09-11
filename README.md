@@ -1,5 +1,5 @@
 # Profile Display Repository
-This is the repository for the Tadesse Lab profile bio, as well as to become familiar with GitHub 
+This is the repository for the Tadesse Lab GitHub profile page, as well as an introduction to become more familiar with basic GitHub navigation and commands
 
 ## Setup
 1. First [install Git](https://github.com/git-guides/install-git) to your local machine
