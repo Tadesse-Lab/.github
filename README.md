@@ -18,4 +18,5 @@ This is the repository for the Tadesse Lab GitHub profile page, as well as an in
 - Push changes: `git push origin [current branch]` (ensure you are in the correct branch before pushing)
 
 ## Task
-To become familiar with Github, you will make a commit to add your name into a members list
+To become familiar with Github, add your name into the members.txt file and commit and push your changes
+
